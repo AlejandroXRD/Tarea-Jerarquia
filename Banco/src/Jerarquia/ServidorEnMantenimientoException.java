@@ -1,3 +1,5 @@
+package Jerarquia;
+
 import java.io.*;
 
 public class ServidorEnMantenimientoException extends ErrorDeConexionException{
